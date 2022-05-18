@@ -1,13 +1,52 @@
-#🔥🤖
+# Telegram Torrent Leecher 🔥🤖
 
+```
+TESTED REPO WORKING FINE FOR ME ABUSE=BAN ON Her*ku...
+```
+
+A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ## installing
 
 ### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LeoBonharts/aylin/tree/master)
+Do Not Abuse 🥺, Better Use Public Leech Groups
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
+### The Eas(iest) Way
+
+- Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
+
+- Start docker daemon [skip if already running]:
+```sh
+dockerd
+```
+- Build Docker image:
+```sh
+docker build . -t public-leech
+```
+- Run the image:
+```sh
+docker run public-leech
+```
+
+IF You want to Use this Bot Use in Closed Supergroup Avoid Giving Access to Untrusted Personal.
+
+
+### The Legacy Way
+Simply clone the repository and run the main file:
+
+```sh
+git clone https://github.com/Omkar47/AutoLeecher.git
+cd AutoLeecher
+virtualenv -p /usr/bin/python3 venv
+. ./venv/bin/activate
+pip install -r requirements.txt
+# <Create conf.py appropriately>
+python3 -m apdbot
+```
 
 ### an example for creating conf.py 👇
 ```py
