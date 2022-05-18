@@ -5,7 +5,7 @@
 
 Do Not Abuse 🥺, Better Use Public Leech Groups
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LeoBonharts/aylin/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 ### The Eas(iest) Way
