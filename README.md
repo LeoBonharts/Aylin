@@ -9,8 +9,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-```sh
-git
+
 ### an example for creating conf.py 👇
 ```py
 from apdbot.sample_con import Config
