@@ -1,10 +1,3 @@
-# Telegram Torrent Leecher 🔥🤖
-
-```
-TESTED REPO WORKING FINE FOR ME ABUSE=BAN ON Her*ku...
-```
-
-A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ## installing
 
@@ -12,7 +5,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 Do Not Abuse 🥺, Better Use Public Leech Groups
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LeoBonharts/aylin/tree/master)
 
 
 ### The Eas(iest) Way
